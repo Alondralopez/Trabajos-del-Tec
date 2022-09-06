@@ -1,5 +1,5 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title><>
+<title>Hello word</title>
 </html>
